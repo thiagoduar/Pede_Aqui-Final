@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pede Aqui!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_info">Sobre</string>
+    <string name="action_infoTexto"> The Pede Aqui! is an application that enables the establishment of the customer make your application without the need to speak to a waiter. The Pede Aqui! offers a digital menu of the establishment where the customer chooses to him his request.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings tela login-->
+    <string name="prompt_email">EMAIL</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">Invalid Email.</string>
+    <string name="error_invalid_password">Invalid Password.</string>
+    <string name="error_incorrect_password">Incorrect Password.</string>
+    <string name="error_field_required">Field Required.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+
+</resources>

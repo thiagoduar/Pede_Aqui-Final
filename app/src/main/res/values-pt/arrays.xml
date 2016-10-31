@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="logos">
+
+    <item>@drawable/cappuccino</item>
+    <item>@drawable/chocolate</item>
+    <item>@drawable/crepioca</item>
+    <item>@drawable/empada</item>
+    <item>@drawable/empadadefrnago</item>
+        <item>@drawable/expresso</item>
+        <item>@drawable/paodequeijo</item>
+        <item>@drawable/quiche</item>
+        <item>@drawable/refrigerante</item>
+        <item>@drawable/sanduiche</item>
+
+   </array>
+
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pede Aqui!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_info">Sobre</string>
+    <string name="action_infoTexto">     O Pede Aqui é uma aplicação que possibilita o cliente do estabelecimento fazer o seu pedido sem a necessidade de falar com um garçom. O Pede Aqui oferece um cardápio digital do estabelecimento onde com ele o cliente escolhe o seu pedido.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings tela login-->
+    <string name="prompt_email">EMAIL</string>
+    <string name="prompt_password">SENHA</string>
+    <string name="action_sign_in">ENTRAR</string>
+    <string name="action_sign_in_short">ENTRAR</string>
+    <string name="error_invalid_email">Este email é invalido.</string>
+    <string name="error_invalid_password">Esta senha e curta de mais.</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatorio.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="text_cabecalho"> Itens Cardapio</string>
+    <string name="cardapio">Cardapio</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="lojas">Lojas</string>
+    <string name="sair">Sair</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="cpf">CPF</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+
+
+    <string-array name="spinner">
+            <item>Cliente</item>
+            <item>Funcionario</item>
+
+        </string-array>
+
+
+</resources>
